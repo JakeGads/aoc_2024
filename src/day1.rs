@@ -31,7 +31,7 @@ fn count_instances(vec: &Vec<i32>, number: i32) -> usize {
 
 /**
  * Gather the inputs into two lists
- *
+ * something weri d is going on with git adding this to hope to fix it
  * @param inputs: Vec<String>
  * @return (Vec<i32>, Vec<i32>)
  */
